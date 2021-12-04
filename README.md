@@ -20,5 +20,9 @@ Command used to push this empty template repo to git/guthub was. Run this before
 
 `find . -type d -empty -not -path "./.git/*" -exec touch {}/.gitkeep \;`
 
+Once cloned, run the following to get rid of these `.gitkeep` files and keep your project pristine
+
+`find . -name '*.gitkeep' -delete`
+
 ## Why this exists
 When a python-project reaches a stage where it is ready to transition from a collection of scripts to a "code-base" then at that point (this should happen once the viability of the project has been established) a remote (typically a GitHub) should be created for it using this template to sabe time and maintain standardization in relative paths.
