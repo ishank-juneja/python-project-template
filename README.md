@@ -7,7 +7,7 @@
 5. Any documentation that does not belong in the README.md (text files for minor references etc.) and things like referred PDFs go into `notes`
 6. All local datasets and problem instance files go into `data` or sub-dir of `data`
 
-## Apend project .gitignore with
+## Append project .gitignore with
 
 ```
 notes/
