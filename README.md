@@ -4,7 +4,7 @@
 2. All `.pynb` files go into `notebooks`. Using google colab is preffered but files should be downloaded into this folder once done
 3. All figures/videos/plots go in the corresponding sub-dir of `results`. Example all `.png` files in `results/figures`
 4. All models (bullet/mujoco physcis based, trained, or otherwise) go into `models` or sub-dir of `models`
-5. Any documentation that does not belong in the READEME.md (text files for minor references etc.) and things like referred PDFs go into `notes`
+5. Any documentation that does not belong in the README.md (text files for minor references etc.) and things like referred PDFs go into `notes`
 6. All local datasets and problem instance files go into `data` or sub-dir of `data`
 
 ## Apend project .gitignore with
