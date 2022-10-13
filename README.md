@@ -3,6 +3,7 @@
 1. Create a new Github repository on own account or on organization account
 2. Create a new pycharm project by using the pycharm github integration and cloning the repo from github into pycharm
 3. Add any pre-exisiting files to the pycharm project that is now automatically set up with a git remote
+4. Once inside pycharm, create a local virtual environment using pycharm's own venv creation interface
 
 ## Legend
 
