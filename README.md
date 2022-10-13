@@ -1,3 +1,9 @@
+## Standard Operating Procedure for Creating a new Python Project
+
+1. Create a new Github repository on own account or on organization account
+2. Create a new pycharm project by using the pycharm github integration and cloning the repo from github into pycharm
+3. Add any pre-exisiting files to the pycharm project that is now automatically set up with a git remote
+
 ## Legend
 
 1. Project specific `.py` files go into `src` or sub-dir of `src`. All plotting scripts go in `src/plotting`. Avoid any `matplotlib` or related imports in main `src` files
